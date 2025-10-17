@@ -26,8 +26,6 @@
   - `sample_raw_data_A.txt`
   - `sample_raw_data_B.txt`
 
-> If you are using a previous build, replace your `main.py` with the latest one from this repository.
-
 ---
 
 ## 🧰 Installation
