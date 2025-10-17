@@ -166,15 +166,9 @@ Two synthetic-but-realistic files are included with **overlapping rsIDs** and **
 
 ## 📷 Screenshots (placeholders)
 
-_Add screenshots/GIFs here to demonstrate each tab:_
-
-- Load & Summary  
-- Search & Filter (with preview)  
-- SNPs/Chromosome & Genotype Composition  
-- Chromosome Painting (two-column)  
-- ROH Scan (with segments)  
-- Compare A vs B  
-- Report (HTML preview)
+<img width="1916" height="1018" alt="image" src="https://github.com/user-attachments/assets/eff5c683-b7f5-40f8-9874-cf3da58e5bc4" />
+<img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/fadc813e-9163-42e9-8517-6116ea9c80d9" />
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/12938618-5fb4-41b1-aad4-babf3490c638" />
 
 ---
 
